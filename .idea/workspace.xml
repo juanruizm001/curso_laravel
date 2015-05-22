@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c52eb698-253a-4759-a4aa-6bbef60d15f2" name="Default" comment="" />
+    <list default="true" id="c52eb698-253a-4759-a4aa-6bbef60d15f2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2015_05_22_183108_create_candidates_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2015_05_22_183108_create_candidates_table.php" />
+    </list>
     <ignored path="curso_laravel.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -28,8 +30,8 @@
       <file leaf-file-name="2015_05_22_183108_create_candidates_table.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/database/migrations/2015_05_22_183108_create_candidates_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.37649062" vertical-offset="0" max-vertical-offset="816">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -47,6 +49,7 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/config/app.php" />
         <option value="$PROJECT_DIR$/app/database/migrations/2015_05_22_021839_create_users_table.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2015_05_22_183108_create_candidates_table.php" />
       </list>
     </option>
   </component>
@@ -291,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2015_05_22_183108_create_candidates_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.37649062" vertical-offset="0" max-vertical-offset="816">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
           <folding />
         </state>
       </provider>
